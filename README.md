@@ -30,4 +30,4 @@
 <img src = "file/crontab -l.png" width = 100%>  
 <img src = "file/log.png" width = 100%>  
 
-[cfg](https://github.com/RybinSS/rsync/blob/main/file/rsync.sh)
+[sh](https://github.com/RybinSS/rsync/blob/main/file/rsync.sh)
